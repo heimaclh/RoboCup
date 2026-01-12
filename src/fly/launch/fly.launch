@@ -1,0 +1,5 @@
+<launch>
+    <rosparam command = "load" file="$(find fly)/config/waypoint.yaml"/>   
+  
+    <node pkg="fly" type="fly" name="fly_node" respawn="true" output="screen"/>
+</launch>

@@ -1,0 +1,2 @@
+fly:mpc_constrain_ctrl
+-DCATKIN_DEVEL_PREFIX=/home/thinkfly/robocup/devel -DCMAKE_INSTALL_PREFIX=/home/thinkfly/robocup/install -G Unix Makefiles

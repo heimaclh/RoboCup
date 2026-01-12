@@ -1,0 +1,8 @@
+prefix=/home/thinkfly/robocup/install
+
+Name: fly
+Description: Description of fly
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

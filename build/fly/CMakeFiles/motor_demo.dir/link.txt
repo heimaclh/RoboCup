@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/motor_demo.dir/src/motor_demo.cpp.o  -o /home/thinkfly/robocup/devel/lib/fly/motor_demo 
