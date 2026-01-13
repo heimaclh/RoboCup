@@ -1,0 +1,28 @@
+# ROS Core
+build/
+devel/
+install/
+devel_isolated/
+build_isolated/
+install_isolated/
+
+# Logs
+log/
+*.log
+
+# Temporary files
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# Binary files
+*.so
+*.dll
+*.exe
+*.o
+*.a
+
+# System files
+.DS_Store
+Thumbs.db
