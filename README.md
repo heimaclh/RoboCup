@@ -1,7 +1,3 @@
-没问题，一份优秀的 README 不仅是项目的说明书，更是展示工程能力的门面。我为你重新设计了排版，加入了状态徽章（Badges）、清晰的表格、高亮引用以及更有层次的排版，让它在 GitHub/Gitee 上看起来更加专业和现代化。
-
-你可以直接复制以下内容到你的 `README.md` 文件中：
-
 -----
 
 # 🚁 UAV Autonomous Mission Controller
